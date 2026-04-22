@@ -246,8 +246,8 @@ mvn spring-boot:run
 
 ## 👨‍💻 Author
 
-**Tharun**
-DevOps & Backend Engineer
+**Anusha Pattapu**
+
 
 ---
 
