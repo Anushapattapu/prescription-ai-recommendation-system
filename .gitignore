@@ -1,0 +1,21 @@
+# Backend build
+backend/target/
+
+# Android build
+android/.gradle/
+android/build/
+android/app/build/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
